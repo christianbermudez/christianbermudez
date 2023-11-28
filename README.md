@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- [OWASP Juice Shop]
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 
   
 <h2>🎖️ Certifications</h2>
