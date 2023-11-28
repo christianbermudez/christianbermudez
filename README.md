@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/cabby1234/ActiveDirectoryLab)
-- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+- [OWASP Juice Shop](https://www.linkedin.com/posts/christianberm_owasp-juice-shop-activity-7093771381372305408-Hq_G?utm_source=share&utm_medium=member_desktop)
 
   
 <h2>🎖️ Certifications</h2>
