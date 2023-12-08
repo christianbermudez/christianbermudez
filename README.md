@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Hacking WPA/WPA2 Networks](https://github.com/cabby1234/ActiveDirectoryLab)
-- [OWASP Juice Shop](https://www.linkedin.com/posts/christianberm_owasp-juice-shop-activity-7093771381372305408-Hq_G?utm_source=share&utm_medium=member_desktop)
+- [OWASP Juice Shop](https://github.com/cabby1234/OWASPJuiceShop)
 
   
 <h2>🎖️ Certifications</h2>
