@@ -1,4 +1,5 @@
 <h1>Hi, I'm Christian! </h1>
+ <script src="https://tryhackme.com/badge/1823292"></script>
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
