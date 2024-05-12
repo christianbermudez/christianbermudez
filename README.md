@@ -2,7 +2,7 @@
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
-- [Hacking WPA/WPA2 Networks](https://github.com/cabby1234/ActiveDirectoryLab)
+- [Hacking WPA/WPA2 Networks](https://github.com/cabby1234/Hacking-WPA2-Lab)
 - [OWASP Juice Shop](https://github.com/cabby1234/OWASPJuiceShop)
 - [Security Incident Report](https://github.com/cabby1234/SecurityIncidentReport)
 - [SOC Analyst Home Lab](https://github.com/cabby1234/SOC-Analyst-Lab)
