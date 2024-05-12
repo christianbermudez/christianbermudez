@@ -5,6 +5,7 @@
 - [Hacking WPA/WPA2 Networks](https://github.com/cabby1234/ActiveDirectoryLab)
 - [OWASP Juice Shop](https://github.com/cabby1234/OWASPJuiceShop)
 - [Security Incident Report](https://github.com/cabby1234/SecurityIncidentReport)
+- [SOC Analyst Home Lab](https://github.com/cabby1234/SOC-Analyst-Lab)
 
   
 <h2> 🎖️ Certifications:</h2>
