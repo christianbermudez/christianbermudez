@@ -7,6 +7,10 @@
 - [Security Incident Report](https://github.com/cabby1234/SecurityIncidentReport)
 - [SOC Analyst Home Lab](https://github.com/cabby1234/SOC-Analyst-Lab)
 
+<h2> 👨‍💻 Coding Projects:</h2>
+
+- [Bouncing Balls Simulation](https://github.com/christianbermudez/BouncingBallSimulation)
+- [Elevator Simulation](https://github.com/christianbermudez/Elevator-Simulation)
   
 <h2> 🎖️ Certifications:</h2>
 
