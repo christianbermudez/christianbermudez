@@ -17,7 +17,7 @@
 - [Certified in Cybersecurity (CC)](https://www.credly.com/badges/bc460df7-3f89-45d4-b35d-4955edf75bc2/linked_in_profile)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/dcd95dac-1adf-4471-a886-728fd3d6b1b3/linked_in_profile)
 - [Security+](https://www.credly.com/badges/62ff37d6-a60c-4ffb-80b6-e1fd422fe7b0/linked_in_profile)
-- [Fortinete Certified Associate Cybersecurity](https://www.credly.com/badges/bbd28791-e95f-48f3-b42f-fd82d71a4d03/public_url) & [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/5ea4be6a-dd8e-4e2e-b2db-4fcebccd30c2/public_url)
+- [Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/bbd28791-e95f-48f3-b42f-fd82d71a4d03/public_url) & [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/5ea4be6a-dd8e-4e2e-b2db-4fcebccd30c2/public_url)
 - [Introduction to GreyMatter](https://www.credly.com/badges/a5af711c-5080-4c0e-8ebd-a32557dbe376/public_url)
 
 <h2> 🤳 Connect with me:</h2>
